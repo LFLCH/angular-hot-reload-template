@@ -6,7 +6,10 @@ It is a template app for hot reloading of an Angular app with Docker.
 
 ## Overview
 
-https://github.com/LFLCH/angular-hot-reload-template/blob/main/dev_docker.mp4
+
+https://github.com/LFLCH/angular-hot-reload-template/assets/62034725/cf09e9e6-c592-424d-b5fb-d5307996f1a9
+
+
 
 ## Prerequisite
 Make sure you have installed Docker, and the ```Docker``` and ```devcontainers```  VSCode extension.
